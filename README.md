@@ -1,2 +1,2 @@
 # mi-proyecto
-luciano diaz
+luciano diaz luddiaz@escuelasproa.edu.ar
